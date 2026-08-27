@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**treepebifie-arch/treepebifie-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Treasure 
 
-Here are some ideas to get you started:
+### Backend Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build secure, maintainable backend systems and RESTful APIs
+using Node.js, Express.js, MongoDB and postgreSQL.
+
+## What I work with
+
+- JavaScript / Node.js
+- Express.js
+- MongoDB / Mongoose
+- PostgreSQL
+- Redis
+- REST APIs
+- JWT / OAuth 2.0
+- RBAC
+- Zod
+
+## Featured Projects
+
+###  ChopBeta
+Food-tech API for personalized meal recommendations.
+
+###  Financial Record Management System
+Backend API for financial transaction management and analytics.
+
+###  PathIQ
+Ed-tech performance and analytics backend.
+
+## Currently focused on
+
+Backend engineering, API architecture, security and building production-oriented systems.
