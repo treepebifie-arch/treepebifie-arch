@@ -4,7 +4,7 @@
 ### Backend Software Engineer
 
 I build secure, maintainable backend systems and RESTful APIs
-using Node.js, Express.js, MongoDB and postgreSQL.
+using Node.js, Express.js, MongoDB and PostgreSQL.
 
 ## What I work with
 
@@ -21,13 +21,13 @@ using Node.js, Express.js, MongoDB and postgreSQL.
 ## Featured Projects
 
 ###  ChopBeta
-Food-tech API for personalized meal recommendations.
+Food-tech backend API for personalized meal recommendations based on user budget and time of day.
 
 ###  Financial Record Management System
-Backend API for financial transaction management and analytics.
+Backend API for financial transaction management, filtering, aggregation and reporting.
 
 ###  PathIQ
-Ed-tech performance and analytics backend.
+Ed-tech backend for student performance tracking, scoring and engagement analytics.
 
 ## Currently focused on
 
